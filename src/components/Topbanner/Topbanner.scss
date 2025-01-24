@@ -1,0 +1,13 @@
+.banner-container {
+    background-image: url("../../images/banner.jpg");
+    height: 400px;    
+    margin-top: -9px;
+    transition: 0.4s;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+  }
+  .banner{
+    min-height: 400px;
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0.25), rgba(0,0,0,0.75));
+  }

@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ilyas5815/form-react.js/static/css/main.35c17c15.css",
-    "main.js": "/ilyas5815/form-react.js/static/js/main.c58e4712.js",
-    "static/js/453.ed3810f9.chunk.js": "/ilyas5815/form-react.js/static/js/453.ed3810f9.chunk.js",
-    "static/media/banner.jpg": "/ilyas5815/form-react.js/static/media/banner.145e241f2ccf2c3987da.jpg",
-    "static/media/profile.svg": "/ilyas5815/form-react.js/static/media/profile.87db4fe3e8ad1dce2a33072ca36f4691.svg",
-    "static/media/portal.svg": "/ilyas5815/form-react.js/static/media/portal.65c9b488adf20d3efb9b46a069d5b2f0.svg",
-    "index.html": "/ilyas5815/form-react.js/index.html",
-    "static/media/hamburger.svg": "/ilyas5815/form-react.js/static/media/hamburger.82f13578825b4afae77c13ce6020ae38.svg",
-    "static/media/search.svg": "/ilyas5815/form-react.js/static/media/search.190279088727172420e78f8c6c5f5bcd.svg",
-    "main.35c17c15.css.map": "/ilyas5815/form-react.js/static/css/main.35c17c15.css.map",
-    "main.c58e4712.js.map": "/ilyas5815/form-react.js/static/js/main.c58e4712.js.map",
-    "453.ed3810f9.chunk.js.map": "/ilyas5815/form-react.js/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/form-react.js/static/css/main.8455b20b.css",
+    "main.js": "/form-react.js/static/js/main.7c02bedf.js",
+    "static/js/453.ed3810f9.chunk.js": "/form-react.js/static/js/453.ed3810f9.chunk.js",
+    "static/media/banner.jpg": "/form-react.js/static/media/banner.145e241f2ccf2c3987da.jpg",
+    "static/media/profile.svg": "/form-react.js/static/media/profile.87db4fe3e8ad1dce2a33072ca36f4691.svg",
+    "static/media/portal.svg": "/form-react.js/static/media/portal.65c9b488adf20d3efb9b46a069d5b2f0.svg",
+    "index.html": "/form-react.js/index.html",
+    "static/media/hamburger.svg": "/form-react.js/static/media/hamburger.82f13578825b4afae77c13ce6020ae38.svg",
+    "static/media/search.svg": "/form-react.js/static/media/search.190279088727172420e78f8c6c5f5bcd.svg",
+    "main.8455b20b.css.map": "/form-react.js/static/css/main.8455b20b.css.map",
+    "main.7c02bedf.js.map": "/form-react.js/static/js/main.7c02bedf.js.map",
+    "453.ed3810f9.chunk.js.map": "/form-react.js/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.35c17c15.css",
-    "static/js/main.c58e4712.js"
+    "static/css/main.8455b20b.css",
+    "static/js/main.7c02bedf.js"
   ]
 }
